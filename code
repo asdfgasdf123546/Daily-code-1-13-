@@ -1,0 +1,28 @@
+#raidin, Alejandro
+#def CircleCircumference(a):
+#   return 2 * 3.14 * a
+
+
+#result = CircleCircumference(5) #function call
+#print("The is:", result)
+#def isEven(a):
+#    if a%2==0:
+#        return True
+#    else:
+#        return False
+#
+#
+#result = isEven (12)
+#print("The is:", result)
+def frog(num):
+    for frog in range(num):
+        print("ribbit")
+        
+result = frog(5)
+
+
+
+
+
+
+
